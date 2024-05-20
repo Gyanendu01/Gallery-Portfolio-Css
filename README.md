@@ -15,7 +15,7 @@ This repository contains the source code for an image portfolio website created 
 - CSS3
 
 #Live Preview
-[Portfolio]()
+[Portfolio]( https://gyanendu01.github.io/Gallery-Portfolio-Css/)
 ## Getting Started
 
 To run this website locally, follow these steps:
